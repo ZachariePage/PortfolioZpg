@@ -15,7 +15,7 @@
     import '../app.css';
 	  import Projetequipe from "$lib/projetequipe.svelte";
     import { onMount } from 'svelte';
-
+    export const prerender = true;
 
     let lang = true
     
