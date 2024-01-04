@@ -1,0 +1,69 @@
+[
+    {
+        "titre": "Le bateau du peuple d'Alshin",
+        "descriptionfr": "Dans un pays diviser deux peuples autrefois unis se combattent. Le premier peuple est le peuple du feu qui vit dans un désert presque sans végétation. Les membres de ce peuple sont des barbares nomades qui vivent principalement de la chasse. Ils ont une tradition orale chanter, donc il transmette leurs savoir principalement par des chansons. La valeur qu'ils se transmette et qui est la plus importante est la force. Leur devise : « Forger le clan par le feu et la force » Les membres du clan possèdent des vêtements de teinte rouge car la seule plante qu'il est possible de trouver dans leur terre désertique est une plante qui leurs permettent de créer une teinture d'un rouge magnifique. Ce rouge représente en même temps le feu et leurs nature combattante. Leurs vêtements sont très pratiques. Ils n'ont pas fioriture ou d'important élément d'esthétique le peuple du feu ne voit pas d'intérêt à mettre des vêtements pour une autre raison que la protection.",
+        "descriptioneng": "In a divided country, two once-united peoples are in conflict. The first people are the people of fire who live in an almost vegetation-less desert. Members of this people are nomadic barbarians who primarily live off hunting. They have an oral tradition of singing, so they transmit their knowledge mainly through songs. The most important value they pass on is strength. Their motto: 'Forge the clan through fire and strength.' Members of the clan wear clothing tinted red because the only plant they can find in their desert land allows them to create a magnificent red dye. This red represents both fire and their combative nature. Their clothing is very practical, with no frills or significant aesthetic elements, as the people of fire see no reason to wear clothes for any purpose other than protection.",
+        "position": {
+            "value1": "Créateur"
+        },
+        "programme": {
+            "value4": "Premiere",
+            "value7": "Maya"
+        },
+        "image": "src/lib/images/bateau.jpg",
+        "urlgit": "https://youtu.be/2T89WSUMYU8",
+        "url": "https://youtu.be/2T89WSUMYU8"
+    },
+    {
+        "titre": "Signet",
+        "descriptionfr": "Application en ligne utilisant une base de donnée firebase pour afficher des aides mémoires. Application permettant d'ajoutez, modifier, enlevez des aides mémoires dinamyquement et facilement. La base de donnée est différente par utilisateur et permet de se connecter avec google.",
+        "descriptioneng": "Online application using a Firebase database to display memo aids. Application that allows adding, modifying, and removing memo aids dynamically and easily. The database is different for each user and allows connecting with Google.",
+        "position": {
+            "value1": "Créateur"
+        },
+        "programme": {
+            "value4": "JavaScript",
+            "value7": "React",
+            "value5": "Css",
+            "value8": "Html",
+            "value9": "Firebase",
+            "value10": "JSON"
+        },
+        "image": "src/lib/images/signet.png",
+        "urlgit": "https://github.com/ZachariePage/signet",
+        "url": "https://github.com/ZachariePage/signet"
+    },
+    {
+        "titre": "Mémo application web",
+        "descriptionfr": "Application web permettant d'afficher des tâches, d'ajoutez des tâches et de filtrer des tâches.Simple et facile à utilisée, cette application permet de se rapeller ses tâches pour la journée et de les faire à temps. Filtrage de tâche par si elle sont complétées ou non, ajout de tâche, éléments visuel pour différencier les tâches, heure à laquelle une tâche à été ajouter.",
+        "descriptioneng": "Web application for displaying tasks, adding tasks, and filtering tasks. Simple and easy to use, this application allows you to remember your tasks for the day and do them on time. Task filtering by whether they are completed or not, adding tasks, visual elements to differentiate tasks, time when a task was added.",
+        "position": {
+            "value1": "Créateur"
+        },
+        "programme": {
+            "value4": "JavaScript",
+            "value7": "React",
+            "value5": "Css",
+            "value8": "Html",
+            "value10": "JSON"
+        },
+        "image": "src/lib/images/memo.png",
+        "urlgit": "https://github.com/ZachariePage/memo",
+        "url": "https://github.com/ZachariePage/memo"
+    },
+    {
+        "titre": "Le marteau d'Alshin",
+        "descriptionfr": "Dans un pays diviser deux peuples autrefois unis se combattent. Le premier peuple est le peuple du feu qui vit dans un désert presque sans végétation. Les membres de ce peuple sont des barbares nomades qui vivent principalement de la chasse. Ils ont une tradition orale chanter, donc il transmette leurs savoir principalement par des chansons. La valeur qu'ils se transmette et qui est la plus importante est la force. Leur devise : « Forger le clan par le feu et la force » Les membres du clan possèdent des vêtements de teinte rouge car la seule plante qu'il est possible de trouver dans leur terre désertique est une plante qui leurs permettent de créer une teinture d'un rouge magnifique. Ce rouge représente en même temps le feu et leurs nature combattante. Leurs vêtements sont très pratiques. Ils n'ont pas fioriture ou d'important élément d'esthétique le peuple du feu ne voit pas d'intérêt à mettre des vêtements pour une autre raison que la protection.",
+        "descriptioneng": "In a divided country, two once-united peoples are in conflict. The first people are the people of fire who live in an almost vegetation-less desert. Members of this people are nomadic barbarians who primarily live off hunting. They have an oral tradition of singing, so they transmit their knowledge mainly through songs. The most important value they pass on is strength. Their motto: 'Forge the clan through fire and strength.' Members of the clan wear clothing tinted red because the only plant they can find in their desert land allows them to create a magnificent red dye. This red represents both fire and their combative nature. Their clothing is very practical, with no frills or significant aesthetic elements, as the people of fire see no reason to wear clothes for any purpose other than protection.",
+        "position": {
+            "value1": "Créateur"
+        },
+        "programme": {
+            "value4": "Premiere",
+            "value7": "Maya"
+        },
+        "image": "src/lib/images/marteau.jpg",
+        "urlgit": "https://youtu.be/X-ew7QGOPa0",
+        "url": "https://youtu.be/X-ew7QGOPa0"
+    }
+]

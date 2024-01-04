@@ -1,0 +1,48 @@
+[
+    {
+        "titre": "Le Royaumme d'Alcantara",
+        "descriptionfr": "Alcantara est un jeu low-poly médiéval de survie contre des vagues d'ennemies. Le joueur devra défendre le royaume d’Alcantara contre l’invasion des ravageurs en détruisant les portails qui les relient au royaume.",
+        "descriptioneng": "Alcantara is a low-poly medieval survival game against waves of enemies. The player must defend the kingdom of Alcantara against the invasion of marauders by destroying the portals that connect them to the kingdom.",
+        "position": {
+            "value1": "Directeur de projet",
+            "value2": "Directeur Technique"
+        },
+        "programme": {
+            "value1": "C#",
+            "value2": "Unity",
+            "value3": "Illustrator",
+            "value4": "Premiere",
+            "value5": "After Effect",
+            "value6": "Github",
+            "value7": "Maya"
+        },
+        "image": "src/lib/images/alcantarajeux.png",
+        "urlgit": "https://github.com/KevinKuch/Jeu-Royaume-Alcantara",
+        "url": "https://play.unity.com/mg/other/le-royaume-d-alcantara"
+    },
+    {
+        "titre": "Site web TIM Maisonneuve",
+        "descriptionfr": "Tur5o est un prototype de site web créer à la demande des professeurs du programme d'intégration multimédia du collège de Maisonneuve. Le site web a été créé avec wordpress et déployé sur Siteground.",
+        "descriptioneng": "Tur5o is a prototype website created at the request of professors from the multimedia integration program at Maisonneuve College. The website was created with WordPress and deployed on Siteground.",
+        "position": {
+            "value2": "Directeur Backend"
+        },
+        "programme": {
+            "value1": "PHP",
+            "value2": "HTML",
+            "value7": "Wordpress",
+            "value83": "Siteground",
+            "value70": "SQL",
+            "value71": "XAMPP",
+            "value10": "SCSS",
+            "value12": "JavaScript",
+            "value3": "Illustrator",
+            "value4": "Premiere",
+            "value5": "After Effect",
+            "value6": "Github"
+        },
+        "image": "src/lib/images/turo.png",
+        "urlgit": "https://github.com/SarahChemanedji/tur5o",
+        "url": "https://cidweb46.sg-host.com/"
+    }
+]

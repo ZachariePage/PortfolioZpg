@@ -1,0 +1,78 @@
+<script>
+  'use client'
+	import { onMount } from 'svelte';
+
+  
+  let path = null;
+  let progress = 0;
+  let time = Math.PI / 2;
+  let reqId = null;
+  let value = 10;
+  let x = 0.5;
+  
+
+  onMount(() => {
+		setPath(progress);
+    console.log("meowimeowo = ")
+	})
+  const setPath = (progress) => {
+    const width = window.innerWidth * 0.7;
+    //path.current.setAttributeNS(null, "d", `M0 250 Q${width * x} ${250 + progress}, ${width} 250`)
+  }
+  const lerp = (x, y, a) => x * (1 - a) + y * a
+  const manageMouseEnter = () => {
+    if(reqId){
+      cancelAnimationFrame(reqId)
+      resetAnimation()
+    }
+  }
+  const manageMouseMove = (e) => {
+    const { movementY, clientX } = e;
+    const pathBound =  path.current.getBoundingClientRect();
+    x = (clientX - pathBound.left) / pathBound.width;
+    progress+= movementY
+    setPath(progress);
+  }
+  const manageMouseLeave = () => {
+    animateOut();
+  }
+  const animateOut = () => {
+    const newProgress = progress * Math.sin(time);
+    progress = lerp(progress, 0, 0.025);
+    time+=0.2;
+    setPath(newProgress);
+    if(Math.abs(progress) > 0.75){
+      reqId = requestAnimationFrame(animateOut);
+    }
+    else{
+      resetAnimation();
+    }
+  }
+  const resetAnimation = () => {
+    time = Math.PI / 2;
+    progress = 0;
+  }
+
+</script>
+<div class="relative w-full h-px mb-5">
+  <div
+  aria-hidden="true"
+    aria-roledescription="mouse"
+    on:mouseenter={manageMouseEnter}
+    on:mousemove={() => manageMouseMove("e")}
+    on:mouseleave={manageMouseLeave}
+    class="relative z-10 h-10 w-full top-[-40px]"
+  >
+  
+  </div>
+  <svg class="absolute w-full h-[100px] top-0 -translate-y-1/2">
+    <path
+      bind:this={path} 
+      d=""
+      class="stroke-current text-yellow-50 stroke-[1px] fill-none">
+    </path>
+  </svg>
+  <div>{path}</div>
+</div>
+
+    
