@@ -10,6 +10,7 @@
     export let urlgit;
     export let lang;
     console.log("moewwwwwwww"+lang)
+    export const prerender = true;
 </script>
 
     

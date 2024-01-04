@@ -1,6 +1,6 @@
 <script>
     export let value;
-
+    export const prerender = true;
 </script>
 
 <div>

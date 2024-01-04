@@ -5,7 +5,7 @@
     export let programme;
     export let marteau;
     export let image;
- 
+    export const prerender = true;
 </script>
 
     
