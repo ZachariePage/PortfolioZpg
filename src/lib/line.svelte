@@ -2,7 +2,7 @@
   'use client'
 	import { onMount } from 'svelte';
 
-  export const prerender = true;
+ 
   let path
   let progress = 0;
   let time = Math.PI / 2;

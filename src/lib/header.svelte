@@ -1,7 +1,7 @@
 <script>
   import {headerText} from "$lib/data/localization.json"
   export let lang;
-  export const prerender = true;
+
   const headerString = headerText
   .map((element) => element.text1?.fr)
   const headerStringEng = headerText
@@ -42,7 +42,5 @@
     </ul>
 </div>
 <style lang="postcss">
-    :global(html) {
-      background-color: theme(colors.white);
-    }
+    
   </style>

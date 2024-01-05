@@ -9,7 +9,7 @@
     export let image;
     export let url;
     export let urlgit;
-    export const prerender = true;
+
 </script>
 
     

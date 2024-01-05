@@ -1,7 +1,7 @@
 <script>
     export let lang;
     import {bodyText} from "$lib/data/localization.json"
-    export const prerender = true;
+
 </script>
 <div>
     <h2 class="mt-3 text-lg font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10 hidden sm:block">{lang == true ? "À propos" : "About"}</h2>
