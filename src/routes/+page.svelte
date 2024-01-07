@@ -12,6 +12,7 @@
     import marteau from "$lib/images/marteau.jpg"
     import projetequipe from "$lib/data/projetequipe.json"
     import Projetequipetest from "$lib/projetequipetest.svelte";
+    import turo from "$lib/images/turo.png"
     import '../app.css';
 	  import Projetequipe from "$lib/projetequipe.svelte";
     import { onMount } from 'svelte';

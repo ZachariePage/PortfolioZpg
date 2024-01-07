@@ -16,7 +16,7 @@
             "value6": "Github",
             "value7": "Maya"
         },
-        "image": "src/lib/images/alcantarajeux.png",
+        "image": "_app/immutable/assets/alcantarajeux.TqlDKepi.png",
         "urlgit": "https://github.com/KevinKuch/Jeu-Royaume-Alcantara",
         "url": "https://play.unity.com/mg/other/le-royaume-d-alcantara"
     },
@@ -41,7 +41,7 @@
             "value5": "After Effect",
             "value6": "Github"
         },
-        "image": "src/lib/images/turo.png",
+        "image": "_app/immutable/assets/turo.QrrHN-Gj.png",
         "urlgit": "https://github.com/SarahChemanedji/tur5o",
         "url": "https://cidweb46.sg-host.com/"
     }
