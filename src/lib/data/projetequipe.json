@@ -22,7 +22,7 @@
     },
     {
         "titre": "Site web TIM Maisonneuve",
-        "descriptionfr": "Tur5o est un prototype de site web créer à la demande des professeurs du programme d'intégration multimédia du collège de Maisonneuve. Le site web a été créé avec wordpress et déployé sur Siteground.",
+        "descriptionfr": "Tur5o est un prototype de site web créé à la demande des professeurs du programme d'intégration multimédia du collège de Maisonneuve. Le site web a été créé avec wordpress et déployé sur Siteground.",
         "descriptioneng": "Tur5o is a prototype website created at the request of professors from the multimedia integration program at Maisonneuve College. The website was created with WordPress and deployed on Siteground.",
         "position": {
             "value2": "Directeur Backend"
