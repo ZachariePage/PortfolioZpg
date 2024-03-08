@@ -1,8 +1,8 @@
 [
     {
         "titre": "Tréfond",
-        "descriptionfr": "Tréfond est un jeu 2D hack' n slash développé sur unity dont le but est de vaincre le boss final qui se cache dans les tréfonds de la terre. Le joueur devra parcourir un parcours à obstacle et tuer le monstre sur son chemin pour pouvoir arriver jusqu'à l'objectif.",
-        "descriptioneng": "In a divided country, two once-united peoples are in conflict. The first people are the people of fire who live in an almost vegetation-less desert. Members of this people are nomadic barbarians who primarily live off hunting. They have an oral tradition of singing, so they transmit their knowledge mainly through songs. The most important value they pass on is strength. Their motto: 'Forge the clan through fire and strength.' Members of the clan wear clothing tinted red because the only plant they can find in their desert land allows them to create a magnificent red dye. This red represents both fire and their combative nature. Their clothing is very practical, with no frills or significant aesthetic elements, as the people of fire see no reason to wear clothes for any purpose other than protection.",
+        "descriptionfr": "Tréfond est un jeu 2D hack' n slash développé sur unity dont le but est de vaincre le boss final qui se cache dans les tréfonds de la terre. Le joueur devra parcourir un parcours à obstacles et tuer les monstres sur son chemin pour pouvoir arriver jusqu'à l'objectif.",
+        "descriptioneng": "Trefond is a 2D hack’ n slash game made with unity where the goal is to beat the final boss who is hiding in the cavernous underground. The player will have to traverse a set of obstacles and monsters to reach the final goal.",
         "position": {
             "value1": "Créateur"
         },
@@ -12,8 +12,8 @@
             "value3": "Illustrator"
         },
         "image": "/PortfolioZpg/_app/immutable/assets/image4.yFqbvWHf.png",
-        "urlgit": "",
-        "url": ""
+        "urlgit": "https://play.unity.com/mg/other/trefond-x",
+        "url": "https://play.unity.com/mg/other/trefond-x"
     },
     {
         "titre": "Le bateau du peuple d'Alshin",
