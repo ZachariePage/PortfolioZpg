@@ -57,8 +57,8 @@
           <h2 class="mt-3  text-xl font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10  sm:block">Projets en équipe</h2>
           <ol class="group/list lg:flex flex-row  lg:justify-around">
             {#key lang}
-             {#each projetequipe as {descriptionfr, descriptioneng,titre, position, programme, image, url, urlgit}, index}
-            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}/>
+             {#each projetequipe as {descriptionfr, descriptioneng,titre, position, programme, image, url, urlgit,urlvideo}, index}
+            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}{urlvideo}/>
             {/each}
             {/key}
           </ol>

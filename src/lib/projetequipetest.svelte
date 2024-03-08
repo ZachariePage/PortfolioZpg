@@ -9,6 +9,7 @@
     export let image;
     export let url;
     export let urlgit;
+    export let urlvideo;
     export const prerender = true;
 </script>
 
@@ -47,6 +48,14 @@
         <a href="{url}" class=" group/jou relative block hover:text-purple-300 hover:-translate-x-3 duration-100 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
             <span class="sr-only"></span>
             <div>Regardez le projet!</div>
+            <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" class=" absolute  fill-current top-0 bottom-0 -right-2/4 invisible group-hover/jou:-right-2/3 duration-100 group-hover/jou:visible  h-16 w-16" fill-rule="evenodd" clip-rule="evenodd"><path d="M21.883 12l-7.527 6.235.644.765 9-7.521-9-7.479-.645.764 7.529 6.236h-21.884v1h21.883z"/></svg>
+          </a>
+        
+    </div>
+    <div class=" pt-5 justify-end flex ">
+        <a href="{urlvideo}" class=" group/jou relative block hover:text-purple-300 hover:-translate-x-3 duration-100 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
+            <span class="sr-only"></span>
+            <div>Regardez la vidéo!</div>
             <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" class=" absolute  fill-current top-0 bottom-0 -right-2/4 invisible group-hover/jou:-right-2/3 duration-100 group-hover/jou:visible  h-16 w-16" fill-rule="evenodd" clip-rule="evenodd"><path d="M21.883 12l-7.527 6.235.644.765 9-7.521-9-7.479-.645.764 7.529 6.236h-21.884v1h21.883z"/></svg>
           </a>
         
