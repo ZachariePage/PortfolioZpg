@@ -45,5 +45,23 @@
         "image": "/PortfolioZpg/_app/immutable/assets/turo.QrrHN-Gj.png",
         "urlgit": "https://github.com/SarahChemanedji/tur5o",
         "url": "https://cidweb46.sg-host.com/"
+    },
+    {
+        "titre": "Nom du Projet (Placeholder)",
+        "descriptionfr": "Ceci est une description temporaire en français pour un projet à venir.",
+        "descriptioneng": "This is a placeholder English description for an upcoming project.",
+        "position": {
+            "value1": "Rôle principal",
+            "value2": "Rôle secondaire"
+        },
+        "programme": {
+            "value1": "Technologie 1",
+            "value2": "Technologie 2",
+            "value3": "Technologie 3"
+        },
+        "image": "/PortfolioZpg/_app/immutable/assets/slimeslice.2p9pCmPi.png",
+        "urlgit": "https://github.com/username/placeholder",
+        "url": "https://example.com",
+        "urlvideo": "https://youtube.com"
     }
 ]

@@ -6,6 +6,7 @@
     import Projectdata from "$lib/data/projectdata.json";
     import sections from "$lib/data/projectdata.json";
     import alcantara from "$lib/images/alcantarajeux.png"
+    import slimeslice from "$lib/images/slimeslice.png"
     import bateau from "$lib/images/bateau.jpg"
     import memo from "$lib/images/memo.png"
     import signet from "$lib/images/signet.png"
@@ -55,10 +56,10 @@
         <Line />
         <section class="mb-16 scroll-mt-16 lg:scroll-mt-24">
           <h2 class="mt-3  text-xl font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10  sm:block">Projets en équipe</h2>
-          <ol class="group/list lg:flex flex-row  lg:justify-around">
+          <ol class="group/list space-y-12 lg:space-y-0 lg:flex lg:flex-row lg:gap-12 lg:justify-around">
             {#key lang}
              {#each projetequipe as {descriptionfr, descriptioneng,titre, position, programme, image, url, urlgit,urlvideo}, index}
-            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}{urlvideo}/>
+            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}{urlvideo}{slimeslice}/>
             {/each}
             {/key}
           </ol>

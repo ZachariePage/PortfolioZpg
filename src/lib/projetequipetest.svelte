@@ -6,6 +6,7 @@
     export let position;
     export let programme;
     export let marteau;
+    export let slimeslice;
     export let image;
     export let url;
     export let urlgit;
