@@ -47,12 +47,12 @@
         "url": "https://cidweb46.sg-host.com/"
     },
     {
-        "titre": "Nom du Projet (Placeholder)",
-        "descriptionfr": "Ceci est une description temporaire en français pour un projet à venir.",
-        "descriptioneng": "This is a placeholder English description for an upcoming project.",
+        "titre": "Slime & Slice",
+        "descriptionfr": "Dans Slime and Slice, vous êtes deux aventuriers fauchés qui se lancent dans l'exploration du terrible et dangereux donjon de Basilis. Or, pour gagner de l'argent, vous décidez d'ouvrir, au travers de votre exploration, une pizzeria pour aventuriers affamés. En plus de faire des pizzas pour les différentes races explorant le donjon, vous devez subjuguer les hordes de slimes qui l'habitent. Néanmoins, cela vous arrange, car en plus des ingrédients uniques offerts au sein de Basilis, l'ingrédient secret de votre fameuse sauce n'est nul autre que le jus de ces pestes qui pullulent. Coupez, cuisinez et servez les pizzas les plus fantastiques de Basilis dans S&S (Slime & Slice)!",
+        "descriptioneng": "In Slime and Slice, you are two broke adventurers who set out to explore the terrible and dangerous dungeon of Basilis. However, to earn some money, you decide to open a pizzeria for hungry adventurers as you progress through your exploration. In addition to making pizzas for the various races exploring the dungeon, you must subdue the hordes of slimes that inhabit it. This actually works in your favor, because alongside the unique ingredients found in Basilis, the secret ingredient of your famous sauce is none other than the juice of these pesky creatures swarming everywhere. Slice, cook, and serve the most fantastic pizzas in Basilis in S&S (Slime & Slice)!",
         "position": {
-            "value1": "Rôle principal",
-            "value2": "Rôle secondaire"
+            "value1": "Directeur de projet",
+            "value2": "Directeur Technique"
         },
         "programme": {
             "value1": "Technologie 1",
