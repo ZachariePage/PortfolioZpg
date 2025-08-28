@@ -44,22 +44,22 @@
         <Line />
         <section id="experience" class="mb-16 scroll-mt-16 lg:scroll-mt-24" aria-label="Work experience">
 
-          <h2 class="mt-3  text-xl font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10  sm:block">Projets</h2>
+          <h2 class="mt-3  text-xl font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10  sm:block">{lang ? "Projets" : "Projects"}</h2>
           <ol class="group/list">
             {#key lang}
-          {#each sections as {descriptionfr, titre, descriptioneng, position, programme, image,url, urlgit}, index}
-                <Project {descriptionfr}{position}{titre}{descriptioneng}{programme}{marteau}{image}{url}{urlgit}{lang}/>
+          {#each sections as {descriptionfr, titre, descriptioneng, position, programme, image,url, urlgit, positioneng}, index}
+                <Project {descriptionfr}{position}{titre}{descriptioneng}{programme}{marteau}{image}{url}{urlgit}{lang}{positioneng}/>
           {/each}
           {/key}
           </ol>
         </section>
         <Line />
         <section class="mb-16 scroll-mt-16 lg:scroll-mt-24">
-          <h2 class="mt-3  text-xl font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10  sm:block">Projets en équipe</h2>
+          <h2 class="mt-3  text-xl font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10  sm:block">{lang ? "Projets en équipe" : "Team Projects"}</h2>
           <ol class="group/list space-y-12 lg:space-y-0 lg:flex lg:flex-row lg:gap-12 lg:justify-around">
             {#key lang}
-             {#each projetequipe as {descriptionfr, descriptioneng,titre, position, programme, image, url, urlgit,urlvideo}, index}
-            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}{urlvideo}{slimeslice}/>
+             {#each projetequipe as {descriptionfr, descriptioneng,titre, position, programme, image, url, urlgit,urlvideo, positioneng}, index}
+            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}{urlvideo}{slimeslice}{positioneng}/>
             {/each}
             {/key}
           </ol>

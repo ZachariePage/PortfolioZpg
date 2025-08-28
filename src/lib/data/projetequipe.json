@@ -7,6 +7,10 @@
             "value1": "Directeur de projet",
             "value2": "Directeur Technique"
         },
+        "positioneng": {
+            "value1": "Project Director",
+            "value2": "Technical Director"
+        },
         "programme": {
             "value1": "C#",
             "value2": "Unity",
@@ -27,6 +31,9 @@
         "descriptioneng": "Tur5o is a prototype website created at the request of professors from the multimedia integration program at Maisonneuve College. The website was created with WordPress and deployed on Siteground.",
         "position": {
             "value2": "Directeur Backend"
+        },
+        "positioneng": {
+            "value1": "Backend Director"
         },
         "programme": {
             "value1": "PHP",
@@ -53,6 +60,10 @@
         "position": {
             "value1": "Directeur de projet",
             "value2": "Directeur Technique"
+        },
+        "positioneng": {
+            "value1": "Project Director",
+            "value2": "Technical Director"
         },
         "programme": {
             "value1": "Technologie 1",

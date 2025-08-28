@@ -5,6 +5,7 @@
     export let titre;
     export let position;
     export let programme;
+    export let positioneng
     export let marteau;
     export let slimeslice;
     export let image;
@@ -19,7 +20,7 @@
     <div class=" w-full flex flex-col">
         <h2 class=" hidden sm:block mt-3 text-lg font-medium tracking-tight text-yellow-700 sm:text  sm:block s-y_bCXRrkrYfP">{titre}</h2>
         <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-gray-500 sm:col-span-2">
-            Projet Multimedia 
+            {lang ? "Projets multimedia" : "Multimedia Projects"}
             <img src="{image}" alt="" class="rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1 lg:max-h-72 lg:min-h-72">
         </header>
     </div>
@@ -28,9 +29,9 @@
             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
         <ul class=" z-10 mt-4 text-xl">
             <h2 class=" block sm:hidden mt-3 text-lg font-medium tracking-tight text-yellow-700 sm:text-2xl  s-y_bCXRrkrYfP">{titre}</h2>
-            {#each Object.values(position) as value}
-            <li><h3 class="font-medium leading-snug text-gray-200">{value}</h3></li>
-            {/each}
+            {#each Object.values(lang ? position : positioneng) as value}
+                        <h3 class="font-medium leading-snug text-gray-200">{value}</h3>
+                    {/each}
         </ul>
         </a>
         <p>
