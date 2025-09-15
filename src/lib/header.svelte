@@ -16,6 +16,16 @@
       .map((element) => element.text1?.fr).join('') : headerText
       .map((element) => element.text1?.eng).join('')}
       </h2>
+      <h2 class="mt-3 text-lg font-medium tracking-tight sm:text-3xl text-yellow-700">
+      <a 
+          href="https://www.therookies.co/u/zachariepageguiot" 
+         target="_blank" 
+        rel="noopener noreferrer" 
+        class="hover:underline"
+       >
+        Rookies
+     </a>
+</h2>
     <p class=" mt-5">
       {lang == true ? headerText
         .map((element) => element.text2?.fr).join('') : headerText
