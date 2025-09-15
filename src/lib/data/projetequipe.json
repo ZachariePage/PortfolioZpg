@@ -66,13 +66,13 @@
             "value2": "Technical Director"
         },
         "programme": {
-            "value1": "Technologie 1",
-            "value2": "Technologie 2",
-            "value3": "Technologie 3"
+            "value1": "Unity",
+            "value2": "Github",
+            "value3": "C#"
         },
         "image": "/PortfolioZpg/_app/immutable/assets/slimeslice.2p9pCmPi.png",
-        "urlgit": "https://github.com/username/placeholder",
-        "url": "https://example.com",
-        "urlvideo": "https://youtube.com"
+        "urlgit": "https://www.therookies.co/projects/87611",
+        "url": "https://www.therookies.co/projects/87611",
+        "urlvideo": "https://www.therookies.co/projects/87611"
     }
 ]
