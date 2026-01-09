@@ -1,8 +1,8 @@
 [
     {
         "titre": "[WIP] A roguelike autobattler",
-        "descriptionfr": "Dans un pays diviser deux peuples autrefois unis se combattent. Le premier peuple est le peuple du feu qui vit dans un désert presque sans végétation. Les membres de ce peuple sont des barbares nomades qui vivent principalement de la chasse. Ils ont une tradition orale chanter, donc il transmette leurs savoir principalement par des chansons. La valeur qu'ils se transmette et qui est la plus importante est la force. Leur devise : « Forger le clan par le feu et la force » Les membres du clan possèdent des vêtements de teinte rouge car la seule plante qu'il est possible de trouver dans leur terre désertique est une plante qui leurs permettent de créer une teinture d'un rouge magnifique. Ce rouge représente en même temps le feu et leurs nature combattante. Leurs vêtements sont très pratiques. Ils n'ont pas fioriture ou d'important élément d'esthétique le peuple du feu ne voit pas d'intérêt à mettre des vêtements pour une autre raison que la protection.",
-        "descriptioneng": "In a divided country, two once-united peoples are in conflict. The first people are the people of fire who live in an almost vegetation-less desert. Members of this people are nomadic barbarians who primarily live off hunting. They have an oral tradition of singing, so they transmit their knowledge mainly through songs. The most important value they pass on is strength. Their motto: 'Forge the clan through fire and strength.' Members of the clan wear clothing tinted red because the only plant they can find in their desert land allows them to create a magnificent red dye. This red represents both fire and their combative nature. Their clothing is very practical, with no frills or significant aesthetic elements, as the people of fire see no reason to wear clothes for any purpose other than protection.",
+        "descriptionfr": "Dans ce projet, je transmets les apprentissages issus de mes lectures sur des livres Design Patterns et Game Coding Complete à travers la réalisation d’un roguelike auto-battler. J’utilise différents modèles de conception, tels que le Strategy Pattern et le State Pattern, afin de créer un système robuste et modulaire, essentiel à ce type de jeu.",
+        "descriptioneng": "In this project, I apply the knowledge gained from my readings of the books Design Patterns and Game Coding Complete through the development of a roguelike auto-battler. I use various design patterns, such as the Strategy Pattern and the State Pattern, to build a robust and modular system, which is essential for this type of game.",
         "position": {
             "value1": "Créateur"
         },
@@ -10,11 +10,11 @@
             "value1": "Creator"
         },
         "programme": {
-            "value4": "Premiere",
-            "value7": "Maya"
+            "value4": "C#",
+            "value7": "Unity"
         },
         "image": "/PortfolioZpg/_app/immutable/assets/marteau.UfHW56Cj.jpg",
-        "urlgit": "https://youtu.be/X-ew7QGOPa0",
-        "url": "https://youtu.be/X-ew7QGOPa0"
+        "urlgit": "https://github.com/ZachariePage/RogueAutoBattler",
+        "url": "https://github.com/ZachariePage/RogueAutoBattler"
     }
 ]
