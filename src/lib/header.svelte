@@ -21,7 +21,7 @@
           href="https://www.therookies.co/u/zachariepageguiot" 
          target="_blank" 
         rel="noopener noreferrer" 
-        class="hover:underline"
+        class="block hover:text-purple-300"
        >
         Rookies
      </a>

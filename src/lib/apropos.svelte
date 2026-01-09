@@ -8,7 +8,7 @@
     <div>
         <div><p class="mb-4">{lang == true ? bodyText
             .map((element) => element.text1?.fr).join('') : bodyText
-            .map((element) => element.text1?.eng).join('')}<a href="https://www.cmaisonneuve.qc.ca/" class="font-medium text-yellow-700 hover:text-purple-300 focus-visible:text-purple-300">collège Maisonneuve</a>{lang == true ? bodyText
+            .map((element) => element.text1?.eng).join('')}<a href="https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/" class="font-medium text-yellow-700 hover:text-purple-300 focus-visible:text-purple-300">UQAT</a>{lang == true ? bodyText
         .map((element) => element.text2?.fr).join('') : bodyText
         .map((element) => element.text2?.eng).join('')}</p></div>
 
