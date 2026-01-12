@@ -1,7 +1,7 @@
 [
     {
         "titre": "[WIP] A roguelike autobattler",
-        "descriptionfr": "Dans ce projet, je transmets les apprentissages issus de mes lectures sur des livres Design Patterns et Game Coding Complete à travers la réalisation d’un roguelike auto-battler. J’utilise différents modèles de conception, tels que le Strategy Pattern et le State Pattern, afin de créer un système robuste et modulaire, essentiel à ce type de jeu.",
+        "descriptionfr": "Dans ce projet, je transmets les apprentissages issus de mes lectures des livres Design Patterns et Game Coding Complete à travers la réalisation d’un roguelike auto-battler. J’utilise différents modèles de conception, tels que le Strategy Pattern et le State Pattern, afin de créer un système robuste et modulaire, essentiel à ce type de jeu.",
         "descriptioneng": "In this project, I apply the knowledge gained from my readings of the books Design Patterns and Game Coding Complete through the development of a roguelike auto-battler. I use various design patterns, such as the Strategy Pattern and the State Pattern, to build a robust and modular system, which is essential for this type of game.",
         "position": {
             "value1": "Créateur"
