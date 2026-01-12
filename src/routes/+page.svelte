@@ -3,20 +3,13 @@
     import Line from "$lib/line.svelte";
     import Apropos from "$lib/apropos.svelte";
     import Project from "$lib/project.svelte";
-    import Projectdata from "$lib/data/projectdata.json";
     import sections from "$lib/data/projectdata.json";
-    import alcantara from "$lib/images/alcantarajeux.png"
-    import slimeslice from "$lib/images/slimeslice.png"
-    import bateau from "$lib/images/bateau.jpg"
-    import memo from "$lib/images/memo.png"
-    import signet from "$lib/images/signet.png"
-    import marteau from "$lib/images/marteau.jpg"
-    import projetequipe from "$lib/data/projetequipe.json"
+    import slimeslice from "$lib/images/slimeslice.png";
+    import marteau from "$lib/images/WIP.jpg";
+    import Groove from "$lib/images/Groove.png"
+    import projetequipe from "$lib/data/projetequipe.json";
     import Projetequipetest from "$lib/projetequipetest.svelte";
-    import turo from "$lib/images/turo.png"
     import '../app.css';
-	  import Projetequipe from "$lib/projetequipe.svelte";
-    import { onMount } from 'svelte';
     export const prerender = true;
 
     let lang = true

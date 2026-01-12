@@ -1,7 +1,5 @@
 <script>
   import {headerText} from "$lib/data/localization.json"
-  import imageCv from "./images/ZachariePage-GuiotCV.png"
-  import imageJeux from "./images/image4.png"
   export let lang;
   export const prerender = true;
   const headerString = headerText
