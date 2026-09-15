@@ -41,5 +41,45 @@
         "urlgit": "https://shawnoboy.itch.io/groovestalker",
         "url": "https://shawnoboy.itch.io/groovestalker",
         "urlvideo": "https://shawnoboy.itch.io/groovestalker"
+    },
+    {
+        "titre": "Ubi",
+        "descriptionfr": "Game Jam UQAT – Hiver 2025. Dans ce projet, j’ai conceptualisé et développé les systèmes du personnage, la jauge de groove ainsi que l’intelligence artificielle du boss.",
+        "descriptioneng": "UQAT Game Jam – Winter 2025. In this project, I designed and developed the character systems, the groove meter, and the boss’s artificial intelligence.",
+        "position": {
+            "value1": "Programmeur gameplay"
+        },
+        "positioneng": {
+            "value1": "Gameplay programmer "
+        },
+        "programme": {
+            "value1": "Unity",
+            "value2": "Github",
+            "value3": "C#"
+        },
+        "image": "/PortfolioZpg/_app/immutable/assets/Groove.C4AiNh6D.png",
+        "urlgit": "https://shawnoboy.itch.io/groovestalker",
+        "url": "https://shawnoboy.itch.io/groovestalker",
+        "urlvideo": "https://shawnoboy.itch.io/groovestalker"
+    },
+    {
+        "titre": "DiceTact",
+        "descriptionfr": "Game Jam UQAT – Hiver 2025. Dans ce projet, j’ai conceptualisé et développé les systèmes du personnage, la jauge de groove ainsi que l’intelligence artificielle du boss.",
+        "descriptioneng": "UQAT Game Jam – Winter 2025. In this project, I designed and developed the character systems, the groove meter, and the boss’s artificial intelligence.",
+        "position": {
+            "value1": "Programmeur gameplay"
+        },
+        "positioneng": {
+            "value1": "Gameplay programmer "
+        },
+        "programme": {
+            "value1": "Unity",
+            "value2": "Github",
+            "value3": "C#"
+        },
+        "image": "/PortfolioZpg/_app/immutable/assets/Groove.C4AiNh6D.png",
+        "urlgit": "https://shawnoboy.itch.io/groovestalker",
+        "url": "https://shawnoboy.itch.io/groovestalker",
+        "urlvideo": "https://shawnoboy.itch.io/groovestalker"
     }
 ]

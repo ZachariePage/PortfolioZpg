@@ -37,7 +37,7 @@
         <Line />
         <section id="experience" class="mb-16 scroll-mt-16 lg:scroll-mt-24" aria-label="Work experience">
 
-          <h2 class="mt-3  text-xl font-medium tracking-tight text-yellow-700 sm:text-3xl mb-10  sm:block">{lang ? "Projets" : "Projects"}</h2>
+          <h2 class="mt-3  text-xl font-medium tracking-tight text-orange-500 sm:text-3xl mb-10  sm:block">{lang ? "Projets" : "Projects"}</h2>
           <ol class="group/list">
             {#key lang}
           {#each sections as {descriptionfr, titre, descriptioneng, position, programme, image,url, urlgit, positioneng}, index}

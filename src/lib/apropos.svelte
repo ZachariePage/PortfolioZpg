@@ -8,7 +8,7 @@
     <div>
         <div><p class="mb-4">{lang == true ? bodyText
             .map((element) => element.text1?.fr).join('') : bodyText
-            .map((element) => element.text1?.eng).join('')}<a href="https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/" class="font-medium text-yellow-700 hover:text-purple-300 focus-visible:text-purple-300">UQAT</a>{lang == true ? bodyText
+            .map((element) => element.text1?.eng).join('')}<a href="https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/" class="font-medium text-orange-500 hover:text-purple-300 focus-visible:text-purple-300">UQAT</a>{lang == true ? bodyText
         .map((element) => element.text2?.fr).join('') : bodyText
         .map((element) => element.text2?.eng).join('')}</p></div>
 
@@ -18,7 +18,7 @@
         
         <div><p class="mb-4">{lang == true ? bodyText
             .map((element) => element.text4?.fr).join('') : bodyText
-            .map((element) => element.text4?.eng).join('')}<a href="https://ttcanada.ca/" class="font-medium text-yellow-700 hover:text-purple-300 focus-visible:text-purple-300">{lang == true ? bodyText
+            .map((element) => element.text4?.eng).join('')}<a href="https://ttcanada.ca/" class="font-medium text-orange-500 hover:text-purple-300 focus-visible:text-purple-300">{lang == true ? bodyText
         .map((element) => element.text5?.fr).join('') : bodyText
         .map((element) => element.text5?.eng).join('')}</a>{lang == true ? bodyText
         .map((element) => element.text6?.fr).join('') : bodyText
@@ -26,10 +26,18 @@
         
         <div><p class="mb-4">{lang == true ? bodyText
             .map((element) => element.text7?.fr).join('') : bodyText
-            .map((element) => element.text7?.eng).join('')}<a href="https://group.jp-sji.org/en/" class="font-medium text-yellow-700 hover:text-purple-300 focus-visible:text-purple-300">{lang == true ? bodyText
+            .map((element) => element.text7?.eng).join('')}<a href="https://group.jp-sji.org/en/" class="font-medium text-orange-500 hover:text-purple-300 focus-visible:text-purple-300">{lang == true ? bodyText
         .map((element) => element.text8?.fr).join('') : bodyText
         .map((element) => element.text8?.eng).join('')}</a>{lang == true ? bodyText
         .map((element) => element.text9?.fr).join('') : bodyText
         .map((element) => element.text9?.eng).join('')}</p> </div>
          </div>
+
+         <div> <p class="mb-4"> {lang == true ? bodyText 
+         .map((element) => element.text10?.fr).join('') : bodyText
+          .map((element) => element.text10?.eng).join('')} <a href="https://example.com" class="font-medium text-orange-500 hover:text-purple-300 focus-visible:text-purple-300" > {lang == true ? bodyText 
+          .map((element) => element.text11?.fr).join('') : bodyText
+           .map((element) => element.text11?.eng).join('')} </a> {lang == true ? bodyText
+            .map((element) => element.text12?.fr).join('') : bodyText
+             .map((element) => element.text12?.eng).join('')} </p> </div>
 </div>

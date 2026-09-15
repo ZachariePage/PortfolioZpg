@@ -14,7 +14,7 @@
       .map((element) => element.text1?.fr).join('') : headerText
       .map((element) => element.text1?.eng).join('')}
       </h2>
-      <h2 class="mt-3 text-lg font-medium tracking-tight sm:text-3xl text-yellow-700">
+      <h2 class="mt-3 text-lg font-medium tracking-tight sm:text-3xl text-orange-500">
       <a 
           href="https://www.therookies.co/u/zachariepageguiot" 
          target="_blank" 
