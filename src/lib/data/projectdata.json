@@ -14,7 +14,7 @@
             "value4": "C#",
             "value7": "Unity"
         },
-        "image": "src/lib/images/abiku.png",
+        "image": "/PortfolioZpg/_app/immutable/assets/abiku.hDvBfzZ_.png",
         "urlgit": "https://www.therookies.co/projects/93539",
         "url": "https://www.therookies.co/projects/93539"
     },
@@ -38,8 +38,8 @@
     },
     {
         "titre": "Sand simulation",
-        "descriptionfr": "Dans ce projet, je transmets les apprentissages issus de mes lectures des livres Design Patterns et Game Coding Complete à travers la réalisation d’un roguelike auto-battler. J’utilise différents modèles de conception, tels que le Strategy Pattern et le State Pattern, afin de créer un système robuste et modulaire, essentiel à ce type de jeu.",
-        "descriptioneng": "In this project, I apply the knowledge gained from my readings of the books Design Patterns and Game Coding Complete through the development of a roguelike auto-battler. I use various design patterns, such as the Strategy Pattern and the State Pattern, to build a robust and modular system, which is essential for this type of game.",
+        "descriptionfr": "Comment j'ai optimisé une simulation de sable, passant de 30 ms à 2,4 ms, en utilisant Unreal Insights à chaque étape du développement.",
+        "descriptioneng": "How I optimized a sand simulation from 30ms to 2.4ms by using Unreal Insight at each step of the development",
         "position": {
             "value1": "Créateur"
         },
@@ -47,17 +47,19 @@
             "value1": "Creator"
         },
         "programme": {
-            "value4": "C#",
-            "value7": "Unity"
+            "value4": "C++",
+            "value7": "Unreal",
+            "value8": "Unreal Insight",
+            "Value5" : "Perforce"
         },
-        "image": "src/lib/images/slimeslice.png",
+        "image": "/PortfolioZpg/_app/immutable/assets/sabd.8CUIUem2.png",
         "urlgit": "https://www.therookies.co/projects/93539",
         "url": "https://www.therookies.co/projects/93539"
     },
     {
         "titre": "AI swarm simulation",
-        "descriptionfr": "Dans ce projet, je transmets les apprentissages issus de mes lectures des livres Design Patterns et Game Coding Complete à travers la réalisation d’un roguelike auto-battler. J’utilise différents modèles de conception, tels que le Strategy Pattern et le State Pattern, afin de créer un système robuste et modulaire, essentiel à ce type de jeu.",
-        "descriptioneng": "In this project, I apply the knowledge gained from my readings of the books Design Patterns and Game Coding Complete through the development of a roguelike auto-battler. I use various design patterns, such as the Strategy Pattern and the State Pattern, to build a robust and modular system, which is essential for this type of game.",
+        "descriptionfr": "Dans ce projet, mon objectif était de recréer le premier *Ultimate Battle Simulator*, célèbre pour avoir été conçu avec Unity. Bien que je n'aie pas atteint mon but de faire combattre autant d'unités simultanément, j'ai réussi à passer de 5 000 agents Unity à 500 000 tout en maintenant les mêmes performances.",
+        "descriptioneng": "In this project, my goal was to re-create the first Ultimate Battle Simulator, which was famously made inside Unity. While I didn't reach my goal of having as many units fighting at the same time, I've managed to go from 5,000 Unity agents to 500,000 while keeping the same performance. My new bottleneck isn't the code itself but the garbage collector of Unity.",
         "position": {
             "value1": "Créateur"
         },
@@ -68,7 +70,7 @@
             "value4": "C#",
             "value7": "Unity"
         },
-        "image": "src/lib/images/slimeslice.png",
+        "image": "/PortfolioZpg/_app/immutable/assets/swarm.ogSzXM-N.png",
         "urlgit": "https://www.therookies.co/projects/93539",
         "url": "https://www.therookies.co/projects/93539"
     }

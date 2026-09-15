@@ -12,6 +12,11 @@
     export let url;
     export let urlgit;
     export let urlvideo;
+    export let dice;
+    export let swarm;
+    export let ubi;
+    export let sand;
+    export let abi;
     export const prerender = true;
 </script>
 

@@ -7,6 +7,11 @@
     import slimeslice from "$lib/images/slimeslice.png";
     import marteau from "$lib/images/WIP.jpg";
     import Groove from "$lib/images/Groove.png"
+    import ubi from "$lib/images/ubi.jpg"
+    import sand from "$lib/images/sabd.png"
+    import dice from "$lib/images/dice.png"
+    import abi from "$lib/images/abiku.png"
+    import swarm from "$lib/images/swarm.png"
     import projetequipe from "$lib/data/projetequipe.json";
     import Projetequipetest from "$lib/projetequipetest.svelte";
     import '../app.css';
@@ -52,7 +57,7 @@
           <ol class="group/list space-y-12 lg:space-y-0 lg:flex lg:flex-row lg:gap-12 lg:justify-around">
             {#key lang}
              {#each projetequipe as {descriptionfr, descriptioneng,titre, position, programme, image, url, urlgit,urlvideo, positioneng}, index}
-            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}{urlvideo}{slimeslice}{positioneng}/>
+            <Projetequipetest {descriptionfr} {descriptioneng} {lang} {position}{titre}{programme}{marteau}{image} {url}{urlgit}{urlvideo}{slimeslice}{positioneng}{dice}{swarm}{ubi}{sand}{abi}/>
             {/each}
             {/key}
           </ol>

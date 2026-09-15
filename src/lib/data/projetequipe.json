@@ -43,9 +43,9 @@
         "urlvideo": "https://shawnoboy.itch.io/groovestalker"
     },
     {
-        "titre": "Ubi",
-        "descriptionfr": "Game Jam UQAT – Hiver 2025. Dans ce projet, j’ai conceptualisé et développé les systèmes du personnage, la jauge de groove ainsi que l’intelligence artificielle du boss.",
-        "descriptioneng": "UQAT Game Jam – Winter 2025. In this project, I designed and developed the character systems, the groove meter, and the boss’s artificial intelligence.",
+        "titre": "Sly n' Ky: Jouet 2 en 1",
+        "descriptionfr": "Lancez-vous dans une toute nouvelle aventure vidéoludique avec notre duo de jouets adorés des années 80 : *Sly n' Ky*. Dans ce jeu de plateforme en 3D, deux joueurs sont reliés aux extrémités d'un slinky et progressent à travers une gigantesque machine à friandises, parsemée de pièces et de bonbons. C'est un jeu en coopération locale où vous devrez faire équipe avec votre partenaire pour atteindre la fin du parcours et savourer ensemble de délicieuses confiseries !",
+        "descriptioneng": "Play a brand-new video game adventure with our beloved 80s toy duo: Sly n' Ky, a 3D platformer in which two players are tied to both ends of a slinky, trailing along the path of a gigantic candy machine, with coins and candy on their path. It's a local couch co-op game where you need your partner to reach the end and eat delicious candies together!",
         "position": {
             "value1": "Programmeur gameplay"
         },
@@ -54,18 +54,18 @@
         },
         "programme": {
             "value1": "Unity",
-            "value2": "Github",
+            "value2": "Perforce",
             "value3": "C#"
         },
-        "image": "/PortfolioZpg/_app/immutable/assets/Groove.C4AiNh6D.png",
+        "image": "/PortfolioZpg/_app/immutable/assets/ubi.MQfyxC7H.jpg",
         "urlgit": "https://shawnoboy.itch.io/groovestalker",
         "url": "https://shawnoboy.itch.io/groovestalker",
         "urlvideo": "https://shawnoboy.itch.io/groovestalker"
     },
     {
         "titre": "DiceTact",
-        "descriptionfr": "Game Jam UQAT – Hiver 2025. Dans ce projet, j’ai conceptualisé et développé les systèmes du personnage, la jauge de groove ainsi que l’intelligence artificielle du boss.",
-        "descriptioneng": "UQAT Game Jam – Winter 2025. In this project, I designed and developed the character systems, the groove meter, and the boss’s artificial intelligence.",
+        "descriptionfr": "Dans une campagne D&D-esque, des héros sont chargés de transporter le Dé du Destin jusqu’au plus au point du royaume afin de le rouler et faire un souhait.Pour accomplir cette quête, on incarne une troupe de héros auxquels sont confiés des dés spéciaux, capables de canaliser le pouvoir des éléments. Grâce à eux, ils peuvent lancer différents sorts et utiliser leurs pouvoirs au combat.Mais sur leur chemin se dressent des forces ténébreuses, attirées par la puissance du précieux Dé du Destin et prêtes à tout pour s’en emparer.En réalité, il s'agit de vous contre le Maitre de jeu orchestrant ces assauts. Faites preuvent de stratégie et menez vous héros à la victoire!",
+        "descriptioneng": "In a D&D-style campaign, heroes are tasked with transporting the Die of Destiny to the kingdom's highest peak to roll it and make a wish. To complete this quest, you play as a band of heroes entrusted with special dice capable of channeling elemental power. These dice allow them to cast various spells and unleash their powers in combat. However, dark forces stand in their path drawn by the might of the precious Die of Destiny and willing to do whatever it takes to seize it. Ultimately, it is a battle between you and the Game Master orchestrating these assaults. Employ strategy and lead your heroes to victory!",
         "position": {
             "value1": "Programmeur gameplay"
         },
@@ -73,11 +73,11 @@
             "value1": "Gameplay programmer "
         },
         "programme": {
-            "value1": "Unity",
-            "value2": "Github",
-            "value3": "C#"
+            "value1": "Unreal",
+            "value2": "Perforce",
+            "value3": "C++"
         },
-        "image": "/PortfolioZpg/_app/immutable/assets/Groove.C4AiNh6D.png",
+        "image": "/PortfolioZpg/_app/immutable/assets/dice._I-NI7SW.png",
         "urlgit": "https://shawnoboy.itch.io/groovestalker",
         "url": "https://shawnoboy.itch.io/groovestalker",
         "urlvideo": "https://shawnoboy.itch.io/groovestalker"
