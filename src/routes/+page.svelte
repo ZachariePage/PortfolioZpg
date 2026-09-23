@@ -14,6 +14,7 @@
     import swarm from "$lib/images/swarm.png"
     import projetequipe from "$lib/data/projetequipe.json";
     import Projetequipetest from "$lib/projetequipetest.svelte";
+    import CV from "$lib/images/CV.pdf";
     import '../app.css';
     export const prerender = true;
 
@@ -35,7 +36,7 @@
         </div>
       </div>
       {#key lang}
-        <HeaderPortfolio {lang}/>
+        <HeaderPortfolio {lang}{CV}/>
       {/key}
         <Line />
         <Apropos {lang}/>
